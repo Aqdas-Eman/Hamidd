@@ -1,0 +1,253 @@
+{
+  "settings": {
+    "husbandName": "Hamid",
+    "wifeName": "Aqdas",
+    "coupleNames": "Hamid & Aqdas",
+    "welcomeVideoUrl": "/uploads/1795153979059-60238200.mp4",
+    "welcomeVideoTitle": "",
+    "welcomeVideoText": "",
+    "heroIntro": "Made with love for your special day celebrating our story, our memories, and our forever.",
+    "first_meet_date": "08042023",
+    "second_meet_date": "23042023",
+    "togetherSinceDate": "2023-04-08T18:00:00",
+    "gateEnabled": true,
+    "gateTitle": "A little secret to unlock your birthday surprise",
+    "gateQuestion": "When did we first meet?",
+    "hints": [
+      "The day our forever started."
+    ],
+    "wrongMessages": [
+      "Oops! Galat date hai jaan, dobara try karein 🙈❤️",
+      "Aray! Yeh woh date nahi hai, phir se sochein ❤️",
+      "Galat! Ab toh aapki khair nahi, milein zara mujhe 😤😜"
+    ],
+    "extraHintAfterAttempts": "",
+    "gate1SuccessMessage": "Bach gaye! Sahi date yaad rakhi aapne 😍❤️ Welcome my love ✨",
+    "gate2Enabled": true,
+    "gate2Title": "One more memory check before our photos 💕",
+    "gate2Question": "When was our second / official meetup?",
+    "gate2Hints": [],
+    "gate2WrongMessages": [
+      "Oops! Galat date hai jaan, dobara try karein 🙈❤️",
+      "Aray! Yeh woh date nahi hai, phir se sochein ❤️",
+      "Galat! Ab toh aapki khair nahi, milein zara mujhe 😤😜"
+    ],
+    "gate2ExtraHint": "",
+    "gate2SuccessMessage": "Bach gaye! Sahi date yaad rakhi aapne 😍❤️ Welcome my love ✨",
+    "musicUrl": "",
+    "themeAccent": "rose-gold",
+    "finalSurpriseTitle": "Happy Birthday Hamid",
+    "finalLetter": "My dearest Hamid,\n\nSample love letter — replace from admin.\n\nWishing you a joyful birthday filled with warmth, laughter, and every good thing ahead of us. Thank you for being my partner, my calm, and my favorite person.\n\nWith all my love,\nAqdas",
+    "finalMediaUrl": "/uploads/1795160776103-713ef2bb.mp4",
+    "finalMediaType": "video",
+    "visiblePages": {
+      "welcome": true,
+      "story": true,
+      "promises": true,
+      "gate2": true,
+      "gallery": true,
+      "wishes": true,
+      "surprise": true
+    },
+    "pageOrder": [
+      "gate",
+      "welcome",
+      "story",
+      "promises",
+      "gate2",
+      "gallery",
+      "wishes",
+      "surprise"
+    ],
+    "nextButtonLabels": {
+      "welcome": "Begin Our Story 💕",
+      "story": "Next: My Promises 💕",
+      "promises": "Next: Memory Check 💕",
+      "gallery": "Next: Birthday Wishes 💕",
+      "wishes": "Next: Final Surprise ✨"
+    },
+    "welcomeVideos": []
+  },
+  "wishes": [
+    {
+      "id": "wish-1",
+      "title": "🎉 FINALLY HAPPIEST BIRTHDAY My Love 🎉",
+      "text": "Happy Birthday meri jaan ❤️ Aaj ka din mere liye sirf aapki birthday nahi, balkay us din ka shukrana hai jab Allah ne aapko meri zindagi mein bheja. Aap mere har dukh ka sukoon aur har khushi ki wajah hain. Jab se aap aaye hain, har lamha khoobsurat ho gaya hai. Meri bas yahi dua hai ke aap hamesha muskurate rahein, har kamyabi aapke kadam choome, aur hamara yeh saath hamesha aise hi qayam rahe. I love you so much, Hamid! ✨🎂",
+      "imageUrl": "/uploads/1795157279535-98788fec.webp",
+      "sort_order": 1,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-57de55a3",
+      "imageUrl": "/uploads/1795158673562-4ced6cfd.png",
+      "caption": "01",
+      "album": "",
+      "capturedDate": "",
+      "sort_order": 4,
+      "createdAt": "2026-11-20T07:11:13.632Z"
+    },
+    {
+      "id": "gal-9984ac86",
+      "imageUrl": "/uploads/1795158965544-172e52cf.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 5,
+      "createdAt": "2026-11-20T07:16:05.596Z"
+    },
+    {
+      "id": "gal-0ca3949e",
+      "imageUrl": "/uploads/1795158971728-b90bf61a.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 6,
+      "createdAt": "2026-11-20T07:16:11.783Z"
+    },
+    {
+      "id": "gal-4155bb20",
+      "imageUrl": "/uploads/1795158974991-e76c969a.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 7,
+      "createdAt": "2026-11-20T07:16:15.047Z"
+    },
+    {
+      "id": "gal-37561fd0",
+      "imageUrl": "/uploads/1795158977915-8976f57c.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 8,
+      "createdAt": "2026-11-20T07:16:17.975Z"
+    },
+    {
+      "id": "gal-83dd04a4",
+      "imageUrl": "/uploads/1795158980538-fa2e8588.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 9,
+      "createdAt": "2026-11-20T07:16:20.593Z"
+    },
+    {
+      "id": "gal-6fe0b8ea",
+      "imageUrl": "/uploads/1795159001583-333cd161.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 10,
+      "createdAt": "2026-11-20T07:16:41.637Z"
+    },
+    {
+      "id": "gal-8ca5120e",
+      "imageUrl": "/uploads/1795159005456-bfb90819.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 11,
+      "createdAt": "2026-11-20T07:16:45.513Z"
+    },
+    {
+      "id": "gal-17204c31",
+      "imageUrl": "/uploads/1795159014329-0d3a0be8.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 12,
+      "createdAt": "2026-11-20T07:16:54.387Z"
+    },
+    {
+      "id": "gal-fe4b604d",
+      "imageUrl": "/uploads/1795159017039-068c1c6f.png",
+      "caption": "image",
+      "album": "Memories",
+      "capturedDate": "",
+      "sort_order": 13,
+      "createdAt": "2026-11-20T07:16:57.115Z"
+    }
+  ],
+  "promises": [
+    {
+      "id": "pr-1",
+      "icon": "❤️",
+      "title": "My Promise ",
+      "text": "Mai promise krti hn jaan mai apka haar situation may sath doh gae koi bi halat ho hum dono mil kr nikaly gy us situation sy .",
+      "sort_order": 1,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "pr-2",
+      "icon": "🤍",
+      "title": "My Promise ",
+      "text": "Mai promise  karti hoon ke choti choti baaton par roothungi zaroor, par aap se pyar har guzarte din ke saath badhta hi jayega",
+      "sort_order": 2,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "pr-3",
+      "icon": "✨",
+      "title": "My Promise ",
+      "text": "Mai promise krti hn jaan ky mai apki izzat may kami ni any doh gae apki respect may meri respect hai ha bs agar meri kisi baat py objection ho apko ya maine kuch glt kiya ho tou sb ky samny na kehna mujay akaly may samjha dehna.",
+      "sort_order": 3,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "pr-93cf67be",
+      "icon": "❤️",
+      "title": "My Promise ",
+      "text": "Ab tou hamari shaadi may bi saal reh gya hai bs maii chahti hn ky hum nabah kr daihkye sath rahy khush rahy.",
+      "sort_order": 4,
+      "createdAt": "2026-11-20T07:31:14.423Z"
+    },
+    {
+      "id": "pr-a6125efc",
+      "icon": "🤍",
+      "title": "My Promise ",
+      "text": "Mai promise karti hn ky jb ap thak jae mai apka sukoon or apki takaat bano .",
+      "sort_order": 5,
+      "createdAt": "2026-11-20T07:39:20.983Z"
+    },
+    {
+      "id": "pr-266debf8",
+      "icon": "✨",
+      "title": "My Promise",
+      "text": "Mai Promise karti hn ke hamari zindagi ky har safar mein aapki sab se achi dost aur humsafar ban kar rahungi.",
+      "sort_order": 6,
+      "createdAt": "2026-11-20T07:42:09.118Z"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "tl-1",
+      "dateLabel": "",
+      "title": "First Meetup",
+      "description": "Ya hamara first meet-up tha yaad hai ?? pta hai pehli dhfa bike py baithi thi but meet-up tou ya tha nah . Is time py hum chup thy ak dosary ko samjh rhy thy or confuse thy tuhry 😂",
+      "imageUrl": "/uploads/1795158248281-d374ebb1.jpg",
+      "isFirstMeeting": true,
+      "sort_order": 1,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "tl-2",
+      "dateLabel": "",
+      "title": "Second  Meetup",
+      "description": "Ya hamara second tha uff bht si memories hai yaad hai apko apny ya sari pics arooj ko daihka di thi 😂",
+      "imageUrl": "/uploads/1795166330578-c8259d16.jpg",
+      "sort_order": 2,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "tl-3",
+      "dateLabel": "",
+      "title": "Third meetup",
+      "description": "Ya tou apki birthday ka day tha or mery liye bht special ",
+      "imageUrl": "/uploads/1795166402204-99b8c330.jpg",
+      "sort_order": 3,
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    }
+  ]
+}
